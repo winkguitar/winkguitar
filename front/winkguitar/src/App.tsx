@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './comp/tsx/header';
 import HPFooter from './comp/tsx/hp-footer';
