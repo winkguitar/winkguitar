@@ -1,0 +1,82 @@
+@import url("https://use.typekit.net/gka8lri.css");
+@import url("https://use.typekit.net/gka8lri.css");
+
+/*  Font Styles */
+
+* {
+
+    /* Zedou Light */
+    --zedou: "zedou", sans-serif;
+    --zedou-light: 500;
+    --normal-style: normal;
+
+    /* Zedou Medium */
+    /*font-family: "zedou", sans-serif;*/
+    --zedou-medium: 700;
+    /*font-style: normal;*/
+
+    /* Zedou Bold */
+    /*font-family: "zedou", sans-serif;*/
+    --zedou-bold: 900;
+    /*font-style: normal;*/
+
+    /* Zedou Black */
+    /*font-family: "zedou", sans-serif;*/
+    --zedou-black: 900;
+    /*font-style: normal;*/
+
+      /*  CITRUS */
+
+    /* Citrus Gothic Regular */
+    --citrus-gothic: "citrus-gothic", sans-serif;
+    --citrus-regular: 400;
+    /*font-style: normal;*/
+
+    /* Citrus Gothic Italic */
+    /*font-family: "citrus-gothic", sans-serif;*/
+    /*font-weight: 400;*/
+    --italic: italic;
+
+    /* Citrus Gothic Inline Regular */
+    --citrus-gothic-inline: "citrus-gothic-inline", sans-serif;
+    /*font-weight: 400;*/
+    /*font-style: normal;*/
+
+    /* Citrus Gothic Inline Italic */
+    /*font-family: "citrus-gothic-inline", sans-serif;*/
+    /*font-weight: 400;*/
+    /*font-style: italic;*/
+
+    /* Citrus Gothic Rough Regular */
+    --citrus-gothic-rough: "citrus-gothic-rough", sans-serif;
+    /*font-weight: 400;*/
+    /*font-style: normal;*/
+
+    /* Citrus Gothic Rough Italic */
+    /*font-family: "citrus-gothic-rough", sans-serif;*/
+    /*font-weight: 400;*/
+    /*font-style: italic;*/
+
+    /* Citrus Gothic Shadow Regular */
+    --citrus-gothic-shadow: "citrus-gothic-shadow", sans-serif;
+    /*font-weight: 400;*/
+    /*font-style: normal;*/
+
+    /* Citrus Gothic Shadow Italic */
+    /*font-family: "citrus-gothic-shadow", sans-serif;*/
+    /*font-weight: 400;*/
+    /*font-style: italic;*/
+
+    /* Citrus Gothic Solid Regular */
+    --citrus-gothic-solid: "citrus-gothic-solid", sans-serif;
+    /*font-weight: 400;*/
+    /*font-style: normal;*/
+
+    /* Citrus Gothic Solid Italic */
+    /*font-family: "citrus-gothic-solid", sans-serif;*/
+    /*font-weight: 400;*/
+    /*font-style: italic;*/
+
+}
+
+
